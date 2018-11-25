@@ -7,6 +7,12 @@
     "build": "tsc",
     "test": "jest"
   },
+  "keywords": [
+    "tslint",
+    "typescript",
+    "import",
+    "customization"
+  ],
   "author": "wfsovereign",
   "license": "ISC",
   "devDependencies": {
