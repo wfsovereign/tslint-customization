@@ -2,8 +2,9 @@
   "name": "tslint-customization",
   "version": "1.0.0",
   "description": "TSLint of  customization ",
-  "main": "index.js",
+  "main": "recommendedRuleset.js",
   "scripts": {
+    "prepublish": "npm run build",
     "build": "tsc",
     "test": "jest"
   },
