@@ -1,0 +1,6 @@
+{
+  "rulesDirectory": "./rules",
+  "rules": {
+    "import-regular-blank-list": [true, ".png"]
+  }
+}
