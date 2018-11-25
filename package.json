@@ -1,6 +1,6 @@
 {
   "name": "tslint-customization",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TSLint of  customization ",
   "main": "recommendedRuleset.js",
   "scripts": {
